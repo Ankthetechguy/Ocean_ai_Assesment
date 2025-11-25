@@ -1,0 +1,5 @@
+{
+  "categorization_prompt": "Categorize the email into exactly one of: Important, Newsletter, Spam, To-Do. Return only the category name.",
+  "action_item_prompt": "Extract action items from the email. Respond in JSON array form: [{\"task\": \"...\", \"deadline\": \"...\"}]. If none, return an empty array [].",
+  "auto_reply_prompt": "Write an email draft reply in a professional friendly tone. Include subject and body separated by '---SUBJECT---' and '---BODY---'. If it's a meeting request, ask for agenda politely. Keep the reply concise (<= 200 words)."
+}

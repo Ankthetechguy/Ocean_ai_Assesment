@@ -1,0 +1,86 @@
+[
+  {
+    "id": "email-001",
+    "sender": "sarah@acme.com",
+    "subject": "Project Delta - action needed by Friday",
+    "timestamp": "2025-11-15T09:12:00",
+    "body": "Hi, Can you review the attached spec and send feedback by Friday? Also confirm if you can attend the sync on Monday."
+  },
+  {
+    "id": "email-002",
+    "sender": "news@techdaily.example",
+    "subject": "Your weekly TechDaily newsletter",
+    "timestamp": "2025-11-14T07:00:00",
+    "body": "Top stories this week: AI accelerates, startups raise funding..."
+  },
+  {
+    "id": "email-003",
+    "sender": "spam-offer@example.com",
+    "subject": "You've Won! Claim your prize now",
+    "timestamp": "2025-11-10T18:05:00",
+    "body": "Click here to claim your prize. Limited time offer!"
+  },
+  {
+    "id": "email-004",
+    "sender": "hr@company.example",
+    "subject": "Interview schedule - please confirm",
+    "timestamp": "2025-11-13T11:22:00",
+    "body": "We have scheduled your interview on Nov 25 at 10:00 AM. Please confirm availability."
+  },
+  {
+    "id": "email-005",
+    "sender": "client@example.org",
+    "subject": "Invoice 2234 and next steps",
+    "timestamp": "2025-11-12T15:40:00",
+    "body": "Please find invoice attached. Can you confirm payment date and whether we should proceed with phase 2?"
+  },
+  {
+    "id": "email-006",
+    "sender": "teammate@example.com",
+    "subject": "Quick question about the API",
+    "timestamp": "2025-11-16T10:00:00",
+    "body": "Is the endpoint returning 500 for large payloads? We need to debug and patch."
+  },
+  {
+    "id": "email-007",
+    "sender": "events@local.example",
+    "subject": "Invitation: Community Clean-Up",
+    "timestamp": "2025-11-08T08:30:00",
+    "body": "Join us this Saturday for a community clean-up. Please RSVP."
+  },
+  {
+    "id": "email-008",
+    "sender": "orders@example.shop",
+    "subject": "Your order #8890 has shipped",
+    "timestamp": "2025-11-18T13:45:00",
+    "body": "Your package is on the way. Tracking: XYZ123"
+  },
+  {
+    "id": "email-009",
+    "sender": "mentor@example.edu",
+    "subject": "Paper feedback - draft v2",
+    "timestamp": "2025-11-17T21:12:00",
+    "body": "Great progress. Please address points 1-3 and resubmit by Nov 22."
+  },
+  {
+    "id": "email-010",
+    "sender": "offers@bank.example",
+    "subject": "Credit card upgrade offer",
+    "timestamp": "2025-11-11T05:00:00",
+    "body": "We invite you to upgrade. Low interest rate for new applicants."
+  },
+  {
+    "id": "email-011",
+    "sender": "colleague@example.com",
+    "subject": "Lunch tomorrow?",
+    "timestamp": "2025-11-19T12:00:00",
+    "body": "Fancy lunch at 1? I can book a table."
+  },
+  {
+    "id": "email-012",
+    "sender": "project-lead@example.com",
+    "subject": "Urgent: Database migration window",
+    "timestamp": "2025-11-19T18:30:00",
+    "body": "We plan a migration Sunday at 02:00. Need approvals and backup verification. Please confirm and add any concerns."
+  }
+]
